@@ -1,0 +1,1094 @@
+[
+      {
+            "type": "Feature",
+            "properties": {
+                  "building": "dormitory",
+                  "name": "Chapin Hall",
+                  "addr:housenumber": "726",
+                  "addr:street": "University Place",
+                  "addr:city": "Evanston",
+                  "addr:postcode": "60201",
+                  "addr:street:name": "University",
+                  "addr:street:type": "Place",
+                  "addr:housename": "Chapin Hall",
+                  "addr:state": null,
+                  "name:el": null,
+                  "website": null
+            },
+            "geometry": {
+                  "type": "Polygon",
+                  "coordinates": [-87.68130, 42.05102]
+            }
+      },
+      {
+            "type": "Feature",
+            "properties": {
+                  "building": "dormitory",
+                  "name": "Foster-Walker Complex",
+                  "addr:housenumber": "1927",
+                  "addr:street": "Orrington Avenue",
+                  "addr:city": "Evanston",
+                  "addr:postcode": "60201",
+                  "addr:street:name": "Orrington",
+                  "addr:street:type": "Avenue",
+                  "addr:housename": null,
+                  "addr:state": null,
+                  "name:el": null,
+                  "website": null
+            },
+            "geometry": {
+                  "type": "Polygon",
+                  "coordinates": [-87.67868, 42.05295]
+            }
+      },
+      {
+            "type": "Feature",
+            "properties": {
+                  "building": "dormitory",
+                  "name": "Delta Gamma Sorority",
+                  "addr:housenumber": "618",
+                  "addr:street": "Emerson Street",
+                  "addr:city": "Evanston",
+                  "addr:postcode": "60201",
+                  "addr:street:name": "Emerson",
+                  "addr:street:type": "Street",
+                  "addr:housename": null,
+                  "addr:state": null,
+                  "name:el": null,
+                  "website": null
+            },
+            "geometry": {
+                  "type": "Polygon",
+                  "coordinates": [-87.67832, 42.05191]
+            }
+      },
+      {
+            "type": "Feature",
+            "properties": {
+                  "building": "dormitory",
+                  "name": "Hobart House (Womens Residential College)",
+                  "addr:housenumber": "630",
+                  "addr:street": "Emerson Street",
+                  "addr:city": "Evanston",
+                  "addr:postcode": "60201",
+                  "addr:street:name": "Emerson",
+                  "addr:street:type": "Street",
+                  "addr:housename": null,
+                  "addr:state": null,
+                  "name:el": null,
+                  "website": null
+            },
+            "geometry": {
+                  "type": "Polygon",
+                  "coordinates": [-87.67888, 42.05176]
+            }
+      },
+      {
+            "type": "Feature",
+            "properties": {
+                  "building": "dormitory",
+                  "name": "Kappa Alpha Theta Sorority",
+                  "addr:housenumber": "619",
+                  "addr:street": null,
+                  "addr:city": null,
+                  "addr:postcode": null,
+                  "addr:street:name": null,
+                  "addr:street:type": null,
+                  "addr:housename": null,
+                  "addr:state": null,
+                  "name:el": null,
+                  "website": null
+            },
+            "geometry": {
+                  "type": "Polygon",
+                  "coordinates": [-87.67833, 42.05143]
+            }
+      },
+      {
+            "type": "Feature",
+            "properties": {
+                  "building": "dormitory",
+                  "name": "Delta Delta Delta Sorority",
+                  "addr:housenumber": "625",
+                  "addr:street": "University Place",
+                  "addr:city": "Evanston",
+                  "addr:postcode": "60201",
+                  "addr:street:name": "University",
+                  "addr:street:type": "Place",
+                  "addr:housename": null,
+                  "addr:state": null,
+                  "name:el": null,
+                  "website": null
+            },
+            "geometry": {
+                  "type": "Polygon",
+                  "coordinates": [-87.67862, 42.05141]
+            }
+      },
+      {
+            "type": "Feature",
+            "properties": {
+                  "building": "dormitory",
+                  "name": "Alpha Chi Omega Sorority",
+                  "addr:housenumber": "637",
+                  "addr:street": "University Place",
+                  "addr:city": "Evanston",
+                  "addr:postcode": "60201",
+                  "addr:street:name": "University",
+                  "addr:street:type": "Place",
+                  "addr:housename": null,
+                  "addr:state": null,
+                  "name:el": null,
+                  "website": null
+            },
+            "geometry": {
+                  "type": "Polygon",
+                  "coordinates": [-87.67897, 42.05143]
+            }
+      },
+      {
+            "type": "Feature",
+            "properties": {
+                  "building": "dormitory",
+                  "name": "Gamma Phi Beta Sorority",
+                  "addr:housenumber": "640",
+                  "addr:street": null,
+                  "addr:city": null,
+                  "addr:postcode": null,
+                  "addr:street:name": null,
+                  "addr:street:type": null,
+                  "addr:housename": null,
+                  "addr:state": null,
+                  "name:el": null,
+                  "website": null
+            },
+            "geometry": {
+                  "type": "Polygon",
+                  "coordinates": [ -87.67946, 42.05184 ]
+            }
+      },
+      {
+            "type": "Feature",
+            "properties": {
+                  "building": "dormitory",
+                  "name": "Kappa Kappa Gamma Sorority",
+                  "addr:housenumber": "1871",
+                  "addr:street": null,
+                  "addr:city": null,
+                  "addr:postcode": null,
+                  "addr:street:name": null,
+                  "addr:street:type": null,
+                  "addr:housename": null,
+                  "addr:state": null,
+                  "name:el": null,
+                  "website": null
+            },
+            "geometry": {
+                  "type": "Polygon",
+                  "coordinates": [-87.67947,42.05166]
+            }
+      },
+      {
+            "type": "Feature",
+            "properties": {
+                  "building": "dormitory",
+                  "name": "North Mid-Quads Residence Hall",
+                  "addr:housenumber": "650",
+                  "addr:street": "Emerson Street",
+                  "addr:city": "Evanston",
+                  "addr:postcode": "60201",
+                  "addr:street:name": "Emerson",
+                  "addr:street:type": "Street",
+                  "addr:housename": null,
+                  "addr:state": null,
+                  "name:el": null,
+                  "website": null
+            },
+            "geometry": {
+                  "type": "Polygon",
+                  "coordinates": [-87.67982,42.05183]
+            }
+      },
+      {
+            "type": "Feature",
+            "properties": {
+                  "building": "dormitory",
+                  "name": "1856 Orrington Residence Hall",
+                  "addr:housenumber": "1856",
+                  "addr:street": "Orrington Avenue",
+                  "addr:city": null,
+                  "addr:postcode": null,
+                  "addr:street:name": null,
+                  "addr:street:type": null,
+                  "addr:housename": null,
+                  "addr:state": null,
+                  "name:el": null,
+                  "website": null
+            },
+            "geometry": {
+                  "type": "Polygon",
+                  "coordinates": [-87.68005,42.05170]
+            }
+      },
+      {
+            "type": "Feature",
+            "properties": {
+                  "building": "dormitory",
+                  "name": "Chi Omega Sorority",
+                  "addr:housenumber": "1870",
+                  "addr:street": "Orrington Avenue",
+                  "addr:city": "Evanston",
+                  "addr:postcode": "60201",
+                  "addr:street:name": "Orrington",
+                  "addr:street:type": "Avenue",
+                  "addr:housename": null,
+                  "addr:state": null,
+                  "name:el": null,
+                  "website": null
+            },
+            "geometry": {
+                  "type": "Polygon",
+                  "coordinates": [-87.68017,42.05184]
+            }
+      },
+      {
+            "type": "Feature",
+            "properties": {
+                  "building": "dormitory",
+                  "name": "Zeta Tau Alpha Sorority",
+                  "addr:housenumber": "710",
+                  "addr:street": "Emerson Street",
+                  "addr:city": "Evanston",
+                  "addr:postcode": "60201",
+                  "addr:street:name": "Emerson",
+                  "addr:street:type": "Street",
+                  "addr:housename": null,
+                  "addr:state": null,
+                  "name:el": null,
+                  "website": null
+            },
+            "geometry": {
+                  "type": "Polygon",
+                  "coordinates": [-87.68048,42.05183]
+            }
+      },
+      {
+            "type": "Feature",
+            "properties": {
+                  "building": "dormitory",
+                  "name": "Sigma Alpha Iota Sorority",
+                  "addr:housenumber": "720",
+                  "addr:street": "Emerson Street",
+                  "addr:city": "Evanston",
+                  "addr:postcode": "60201",
+                  "addr:street:name": "Emerson",
+                  "addr:street:type": "Street",
+                  "addr:housename": null,
+                  "addr:state": null,
+                  "name:el": null,
+                  "website": null
+            },
+            "geometry": {
+                  "type": "Polygon",
+                  "coordinates": [-87.68085,42.05184]
+            }
+      },
+      {
+            "type": "Feature",
+            "properties": {
+                  "building": "dormitory",
+                  "name": "Willard Residential College",
+                  "addr:housenumber": "1865",
+                  "addr:street": "Sherman Avenue",
+                  "addr:city": "Evanston",
+                  "addr:postcode": "60201",
+                  "addr:street:name": "Sherman",
+                  "addr:street:type": "Avenue",
+                  "addr:housename": null,
+                  "addr:state": null,
+                  "name:el": null,
+                  "website": "http:\/\/www.willardrc.org\/"
+            },
+            "geometry": {
+                  "type": "Polygon",
+                  "coordinates": [-87.68109,42.05171]
+            }
+      },
+      {
+            "type": "Feature",
+            "properties": {
+                  "building": "dormitory",
+                  "name": "Rogers House Residence Hall",
+                  "addr:housenumber": "647",
+                  "addr:street": "University Place",
+                  "addr:city": "Evanston",
+                  "addr:postcode": "60201",
+                  "addr:street:name": "University",
+                  "addr:street:type": "Place",
+                  "addr:housename": null,
+                  "addr:state": null,
+                  "name:el": null,
+                  "website": null
+            },
+            "geometry": {
+                  "type": "Polygon",
+                  "coordinates": [-87.67936,42.05142]
+            }
+      },
+      {
+            "type": "Feature",
+            "properties": {
+                  "building": "dormitory",
+                  "name": "South Mid-Quads Residence Hall",
+                  "addr:housenumber": "655",
+                  "addr:street": "University Place",
+                  "addr:city": "Evanston",
+                  "addr:postcode": "60201",
+                  "addr:street:name": "University",
+                  "addr:street:type": "Place",
+                  "addr:housename": null,
+                  "addr:state": null,
+                  "name:el": null,
+                  "website": null
+            },
+            "geometry": {
+                  "type": "Polygon",
+                  "coordinates": [-87.67974,42.05140]
+            }
+      },
+      {
+            "type": "Feature",
+            "properties": {
+                  "building": "dormitory",
+                  "name": "Alpha Phi Sorority",
+                  "addr:housenumber": "701",
+                  "addr:street": "University Place",
+                  "addr:city": "Evanston",
+                  "addr:postcode": "60201",
+                  "addr:street:name": "University",
+                  "addr:street:type": "Place",
+                  "addr:housename": null,
+                  "addr:state": null,
+                  "name:el": null,
+                  "website": null
+            },
+            "geometry": {
+                  "type": "Polygon",
+                  "coordinates": [-87.68013,42.05144]
+            }
+      },
+      {
+            "type": "Feature",
+            "properties": {
+                  "building": "dormitory",
+                  "name": "Kappa Delta Sorority",
+                  "addr:housenumber": "711",
+                  "addr:street": "University Place",
+                  "addr:city": "Evanston",
+                  "addr:postcode": "60201",
+                  "addr:street:name": "University",
+                  "addr:street:type": "Place",
+                  "addr:housename": null,
+                  "addr:state": null,
+                  "name:el": null,
+                  "website": null
+            },
+            "geometry": {
+                  "type": "Polygon",
+                  "coordinates": [ -87.68048,42.05142 ]
+            }
+      },
+      {
+            "type": "Feature",
+            "properties": {
+                  "building": "dormitory",
+                  "name": "Delta Zeta Sorority",
+                  "addr:housenumber": "717",
+                  "addr:street": "University Place",
+                  "addr:city": "Evanston",
+                  "addr:postcode": "60201",
+                  "addr:street:name": "University",
+                  "addr:street:type": "Place",
+                  "addr:housename": null,
+                  "addr:state": null,
+                  "name:el": null,
+                  "website": null
+            },
+            "geometry": {
+                  "type": "Polygon",
+                  "coordinates": [ -87.68083,42.05145 ]
+            }
+      },
+      {
+            "type": "Feature",
+            "properties": {
+                  "building": "dormitory",
+                  "name": "Evans Scholars House",
+                  "addr:housenumber": "721",
+                  "addr:street": "University Place",
+                  "addr:city": "Evanston",
+                  "addr:postcode": "60201",
+                  "addr:street:name": "University",
+                  "addr:street:type": "Place",
+                  "addr:housename": null,
+                  "addr:state": null,
+                  "name:el": null,
+                  "website": null
+            },
+            "geometry": {
+                  "type": "Polygon",
+                  "coordinates": [ -87.68117,42.05146 ]
+            }
+      },
+      {
+            "type": "Feature",
+            "properties": {
+                  "building": "dormitory",
+                  "name": "Alpha Epsilon Pi Fraternity",
+                  "addr:housenumber": "584",
+                  "addr:street": "Lincoln Street",
+                  "addr:city": "Evanston",
+                  "addr:postcode": "60208",
+                  "addr:street:name": "Lincoln",
+                  "addr:street:type": "Street",
+                  "addr:housename": null,
+                  "addr:state": null,
+                  "name:el": null,
+                  "website": null
+            },
+            "geometry": {
+                  "type": "Polygon",
+                  "coordinates": [ -87.67612,42.06136 ]
+            }
+      },
+      {
+            "type": "Feature",
+            "properties": {
+                  "building": "dormitory",
+                  "name": "Kemper Residence Hall",
+                  "addr:housenumber": "2420",
+                  "addr:street": "Campus Drive",
+                  "addr:city": "Evanston",
+                  "addr:postcode": "60208",
+                  "addr:street:name": "Campus",
+                  "addr:street:type": "Drive",
+                  "addr:housename": null,
+                  "addr:state": null,
+                  "name:el": null,
+                  "website": null
+            },
+            "geometry": {
+                  "type": "Polygon",
+                  "coordinates": [ -87.67498,42.06092 ]
+            }
+      },
+      {
+            "type": "Feature",
+            "properties": {
+                  "building": "dormitory",
+                  "name": "Beta Theta Pi Fraternity",
+                  "addr:housenumber": "2349",
+                  "addr:street": "Sheridan Road",
+                  "addr:city": "Evanston",
+                  "addr:postcode": "60208",
+                  "addr:street:name": "Sheridan",
+                  "addr:street:type": "Road",
+                  "addr:housename": null,
+                  "addr:state": null,
+                  "name:el": null,
+                  "website": null
+            },
+            "geometry": {
+                  "type": "Polygon",
+                  "coordinates": [ -87.67618,42.06108 ]
+            }
+      },
+      {
+            "type": "Feature",
+            "properties": {
+                  "building": "dormitory",
+                  "name": "Slivka Hall",
+                  "addr:housenumber": "2332",
+                  "addr:street": "Sheridan Road;Campus Drive",
+                  "addr:city": "Evanston",
+                  "addr:postcode": "60208",
+                  "addr:street:name": "Campus",
+                  "addr:street:type": "Drive",
+                  "addr:housename": null,
+                  "addr:state": null,
+                  "name:el": null,
+                  "website": null
+            },
+            "geometry": {
+                  "type": "Polygon",
+                  "coordinates": [ -87.67571,42.06049 ]
+            }
+      },
+      {
+            "type": "Feature",
+            "properties": {
+                  "building": "dormitory",
+                  "name": "Phi Delta Theta Fraternity",
+                  "addr:housenumber": "2347",
+                  "addr:street": "Sheridan Road",
+                  "addr:city": "Evanston",
+                  "addr:postcode": "60208",
+                  "addr:street:name": "Sheridan",
+                  "addr:street:type": "Road",
+                  "addr:housename": null,
+                  "addr:state": null,
+                  "name:el": null,
+                  "website": null
+            },
+            "geometry": {
+                  "type": "Polygon",
+                  "coordinates": [ -87.67614,42.06079 ]
+            }
+      },
+      {
+            "type": "Feature",
+            "properties": {
+                  "building": "dormitory",
+                  "name": "Sigma Phi Epsilon Fraternity",
+                  "addr:housenumber": "2341",
+                  "addr:street": "Sheridan Road",
+                  "addr:city": "Evanston",
+                  "addr:postcode": "60208",
+                  "addr:street:name": "Sheridan",
+                  "addr:street:type": "Road",
+                  "addr:housename": null,
+                  "addr:state": null,
+                  "name:el": null,
+                  "website": null
+            },
+            "geometry": {
+                  "type": "Polygon",
+                  "coordinates": [ -87.67615,42.06047 ]
+            }
+      },
+      {
+            "type": "Feature",
+            "properties": {
+                  "building": "dormitory",
+                  "name": "Lambda Chi Alpha Fraternity",
+                  "addr:housenumber": "2339",
+                  "addr:street": "Sheridan Road",
+                  "addr:city": "Evanston",
+                  "addr:postcode": "60208",
+                  "addr:street:name": "Sheridan",
+                  "addr:street:type": "Road",
+                  "addr:housename": null,
+                  "addr:state": null,
+                  "name:el": null,
+                  "website": null
+            },
+            "geometry": {
+                  "type": "Polygon",
+                  "coordinates": [ -87.67637,42.06047 ]
+            }
+      },
+      {
+            "type": "Feature",
+            "properties": {
+                  "building": "dormitory",
+                  "name": "Ayers College of Commerce & Industry",
+                  "addr:housenumber": "2324",
+                  "addr:street": "Campus Drive",
+                  "addr:city": "Evanston",
+                  "addr:postcode": "60208",
+                  "addr:street:name": "Campus",
+                  "addr:street:type": "Drive",
+                  "addr:housename": "Ayers College of Commerce & Industry",
+                  "addr:state": null,
+                  "name:el": null,
+                  "website": null
+            },
+            "geometry": {
+                  "type": "Polygon",
+                  "coordinates": [ -87.67513,42.06041 ]
+            }
+      },
+      {
+            "type": "Feature",
+            "properties": {
+                  "building": "dormitory",
+                  "name": "McCulloch Residence Hall",
+                  "addr:housenumber": "2315",
+                  "addr:street": "Sheridan Road",
+                  "addr:city": "Evanston",
+                  "addr:postcode": "60208",
+                  "addr:street:name": "Sheridan",
+                  "addr:street:type": "Road",
+                  "addr:housename": "McCulloch Residence Hall",
+                  "addr:state": null,
+                  "name:el": null,
+                  "website": null
+            },
+            "geometry": {
+                  "type": "Polygon",
+                  "coordinates": [ -87.67555,42.05990 ]
+            }
+      },
+      {
+            "type": "Feature",
+            "properties": {
+                  "building": "dormitory",
+                  "name": "Delta Tau Delta Fraternity",
+                  "addr:housenumber": "2317",
+                  "addr:street": "Sheridan Road",
+                  "addr:city": "Evanston",
+                  "addr:postcode": "60208",
+                  "addr:street:name": "Sheridan",
+                  "addr:street:type": "Road",
+                  "addr:housename": null,
+                  "addr:state": null,
+                  "name:el": null,
+                  "website": null
+            },
+            "geometry": {
+                  "type": "Polygon",
+                  "coordinates": [ -87.67616, 42.05993 ]
+            }
+      },
+      {
+            "type": "Feature",
+            "properties": {
+                  "building": "dormitory",
+                  "name": "Bobb Residence Hall",
+                  "addr:housenumber": "2305",
+                  "addr:street": "Sheridan Road",
+                  "addr:city": "Evanston",
+                  "addr:postcode": "60208",
+                  "addr:street:name": "Sheridan",
+                  "addr:street:type": "Road",
+                  "addr:housename": "Bobb Residence Hall",
+                  "addr:state": null,
+                  "name:el": null,
+                  "website": null
+            },
+            "geometry": {
+                  "type": "Polygon",
+                  "coordinates": [ -87.67577,42.05966 ]
+            }
+      },
+      {
+            "type": "Feature",
+            "properties": {
+                  "building": "dormitory",
+                  "name": "Delta Upsilon",
+                  "addr:housenumber": "2307",
+                  "addr:street": "Sheridan Road",
+                  "addr:city": "Evanston",
+                  "addr:postcode": "60208",
+                  "addr:street:name": "Sheridan",
+                  "addr:street:type": "Road",
+                  "addr:housename": null,
+                  "addr:state": null,
+                  "name:el": null,
+                  "website": null
+            },
+            "geometry": {
+                  "type": "Polygon",
+                  "coordinates": [ -87.67615, 42.05960 ]
+            }
+      },
+      {
+            "type": "Feature",
+            "properties": {
+                  "building": "dormitory",
+                  "name": "Sargent Hall",
+                  "addr:housenumber": "2245",
+                  "addr:street": "Sheridan Road",
+                  "addr:city": "Evanston",
+                  "addr:postcode": "60208",
+                  "addr:street:name": "Sheridan",
+                  "addr:street:type": "Road",
+                  "addr:housename": null,
+                  "addr:state": null,
+                  "name:el": null,
+                  "website": null
+            },
+            "geometry": {
+                  "type": "Polygon",
+                  "coordinates": [ -87.67551,42.05877 ]
+            }
+      },
+      {
+            "type": "Feature",
+            "properties": {
+                  "building": "dormitory",
+                  "name": "Phi Kappa Psi Fraternity",
+                  "addr:housenumber": "2247",
+                  "addr:street": "Sheridan Road",
+                  "addr:city": "Evanston",
+                  "addr:postcode": "60208",
+                  "addr:street:name": "Sheridan",
+                  "addr:street:type": "Road",
+                  "addr:housename": null,
+                  "addr:state": null,
+                  "name:el": null,
+                  "website": null
+            },
+            "geometry": {
+                  "type": "Polygon",
+                  "coordinates": [ -87.67578,42.05898 ]
+            }
+      },
+      {
+            "type": "Feature",
+            "properties": {
+                  "building": "dormitory",
+                  "name": "Sigma Chi House",
+                  "addr:housenumber": "2249",
+                  "addr:street": "Sheridan Road",
+                  "addr:city": "Evanston",
+                  "addr:postcode": "60208",
+                  "addr:street:name": "Sheridan",
+                  "addr:street:type": "Road",
+                  "addr:housename": null,
+                  "addr:state": null,
+                  "name:el": null,
+                  "website": null
+            },
+            "geometry": {
+                  "type": "Polygon",
+                  "coordinates": [ -87.67617,42.05903 ]
+            }
+      },
+      {
+            "type": "Feature",
+            "properties": {
+                  "building": "dormitory",
+                  "name": "Elder Residential Community",
+                  "addr:housenumber": "2400",
+                  "addr:street": "Sheridan Road",
+                  "addr:city": "Evanston",
+                  "addr:postcode": "60201",
+                  "addr:street:name": "Sheridan",
+                  "addr:street:type": "Road",
+                  "addr:housename": null,
+                  "addr:state": null,
+                  "name:el": null,
+                  "website": null
+            },
+            "geometry": {
+                  "type": "Polygon",
+                  "coordinates": [ -87.67763,42.06087 ]
+            }
+      },
+      {
+            "type": "Feature",
+            "properties": {
+                  "building": "dormitory",
+                  "name": "Sigma Nu",
+                  "addr:housenumber": "2335",
+                  "addr:street": "Sheridan Road",
+                  "addr:city": null,
+                  "addr:postcode": null,
+                  "addr:street:name": null,
+                  "addr:street:type": null,
+                  "addr:housename": null,
+                  "addr:state": null,
+                  "name:el": null,
+                  "website": null
+            },
+            "geometry": {
+                  "type": "Polygon",
+                  "coordinates": [ -87.67665,42.06041 ]
+            }
+      },
+      {
+            "type": "Feature",
+            "properties": {
+                  "building": "dormitory",
+                  "name": "Phi Gamma Delta Fraternity",
+                  "addr:housenumber": "2331",
+                  "addr:street": "Sheridan Road",
+                  "addr:city": null,
+                  "addr:postcode": null,
+                  "addr:street:name": null,
+                  "addr:street:type": null,
+                  "addr:housename": null,
+                  "addr:state": null,
+                  "name:el": null,
+                  "website": null
+            },
+            "geometry": {
+                  "type": "Polygon",
+                  "coordinates": [ -87.67663,42.06020 ]
+            }
+      },
+      {
+            "type": "Feature",
+            "properties": {
+                  "building": "dormitory",
+                  "name": "Sigma Alpha Epsilon",
+                  "addr:housenumber": "2321",
+                  "addr:street": "Sheridan Road",
+                  "addr:city": null,
+                  "addr:postcode": null,
+                  "addr:street:name": null,
+                  "addr:street:type": null,
+                  "addr:housename": null,
+                  "addr:state": null,
+                  "name:el": "ΣΑΕ",
+                  "website": null
+            },
+            "geometry": {
+                  "type": "Polygon",
+                  "coordinates": [ -87.67664,42.05999 ]
+            }
+      },
+      {
+            "type": "Feature",
+            "properties": {
+                  "building": "dormitory",
+                  "name": "Goodrich",
+                  "addr:housenumber": "2321",
+                  "addr:street": "Sheridan Road",
+                  "addr:city": "Evanston",
+                  "addr:postcode": "60208",
+                  "addr:street:name": "Sheridan",
+                  "addr:street:type": "Road",
+                  "addr:housename": null,
+                  "addr:state": null,
+                  "name:el": null,
+                  "website": null
+            },
+            "geometry": {
+                  "type": "Polygon",
+                  "coordinates": [ -87.67643,42.05996 ]
+            }
+      },
+      {
+            "type": "Feature",
+            "properties": {
+                  "building": "dormitory",
+                  "name": "Delta Chi",
+                  "addr:housenumber": "2309",
+                  "addr:street": "Sheridan Road",
+                  "addr:city": "Evanston",
+                  "addr:postcode": "60208",
+                  "addr:street:name": "Sheridan",
+                  "addr:street:type": "Road",
+                  "addr:housename": null,
+                  "addr:state": null,
+                  "name:el": null,
+                  "website": null
+            },
+            "geometry": {
+                  "type": "Polygon",
+                  "coordinates": [ -87.67815,42.06075 ]
+            }
+      },
+      {
+            "type": "Feature",
+            "properties": {
+                  "building": "dormitory",
+                  "name": "Pi Kappa Alpha",
+                  "addr:housenumber": "2313",
+                  "addr:street": "Sheridan Road",
+                  "addr:city": "Evanston",
+                  "addr:postcode": "60208",
+                  "addr:street:name": "Sheridan",
+                  "addr:street:type": "Road",
+                  "addr:housename": null,
+                  "addr:state": null,
+                  "name:el": null,
+                  "website": null
+            },
+            "geometry": {
+                  "type": "Polygon",
+                  "coordinates": [ -87.67666, 42.05953 ]
+            }
+      },
+      {
+            "type": "Feature",
+            "properties": {
+                  "building": "dormitory",
+                  "name": "College of Cultural & Community Studies\/GREEN House",
+                  "addr:housenumber": "2303",
+                  "addr:street": "Sheridan Road",
+                  "addr:city": "Evanston",
+                  "addr:postcode": "60208",
+                  "addr:street:name": "Sheridan",
+                  "addr:street:type": "Road",
+                  "addr:housename": "College of Cultural & Community Studies\/GREEN House",
+                  "addr:state": null,
+                  "name:el": null,
+                  "website": null
+            },
+            "geometry": {
+                  "type": "Polygon",
+                  "coordinates": [ -87.67668,42.05916 ]
+            }
+      },
+      {
+            "type": "Feature",
+            "properties": {
+                  "building": "dormitory",
+                  "name": "Zeta Beta Tau Fraternity",
+                  "addr:housenumber": "2251",
+                  "addr:street": "Sheridan Road",
+                  "addr:city": "Evanston",
+                  "addr:postcode": "60208",
+                  "addr:street:name": "Sheridan",
+                  "addr:street:type": "Road",
+                  "addr:housename": "Zeta Beta Tau Fraternity",
+                  "addr:state": null,
+                  "name:el": null,
+                  "website": null
+            },
+            "geometry": {
+                  "type": "Polygon",
+                  "coordinates": [ -87.67644,42.05905 ]
+            }
+      },
+      {
+            "type": "Feature",
+            "properties": {
+                  "building": "dormitory",
+                  "name": "West Fairchild (International Studies Residential College)",
+                  "addr:housenumber": "1861",
+                  "addr:street": "Sheridan Road",
+                  "addr:city": "Evanston",
+                  "addr:postcode": "60208",
+                  "addr:street:name": "Sheridan",
+                  "addr:street:type": "Road",
+                  "addr:housename": null,
+                  "addr:state": null,
+                  "name:el": null,
+                  "website": null
+            },
+            "geometry": {
+                  "type": "Polygon",
+                  "coordinates": [ -87.67582, 42.05107 ]
+            }
+      },
+      {
+            "type": "Feature",
+            "properties": {
+                  "building": "dormitory",
+                  "name": "East Fairchild (Communications Residential College)",
+                  "addr:housenumber": "1855",
+                  "addr:street": "Sheridan Road",
+                  "addr:city": "Evanston",
+                  "addr:postcode": "60208",
+                  "addr:street:name": "Sheridan",
+                  "addr:street:type": "Road",
+                  "addr:housename": null,
+                  "addr:state": "IL",
+                  "name:el": null,
+                  "website": null
+            },
+            "geometry": {
+                  "type": "Polygon",
+                  "coordinates": [ -87.67504,42.05086 ]
+            }
+      },
+      {
+            "type": "Feature",
+            "properties": {
+                  "building": "dormitory",
+                  "name": "Public Affairs Residential College",
+                  "addr:housenumber": "1838",
+                  "addr:street": "Chicago Avenue",
+                  "addr:city": "Evanston",
+                  "addr:postcode": "60201",
+                  "addr:street:name": "Chicago",
+                  "addr:street:type": "Avenue",
+                  "addr:housename": null,
+                  "addr:state": null,
+                  "name:el": null,
+                  "website": null
+            },
+            "geometry": {
+                  "type": "Polygon",
+                  "coordinates": [ -87.67801,42.05095 ]
+            }
+      },
+      {
+            "type": "Feature",
+            "properties": {
+                  "building": "dormitory",
+                  "name": "Allison Residential Community",
+                  "addr:housenumber": "1820",
+                  "addr:street": "Chicago Avenue",
+                  "addr:city": "Evanston",
+                  "addr:postcode": "60201",
+                  "addr:street:name": "Chicago",
+                  "addr:street:type": "Avenue",
+                  "addr:housename": "Allison Residential Community",
+                  "addr:state": null,
+                  "name:el": null,
+                  "website": null
+            },
+            "geometry": {
+                  "type": "Polygon",
+                  "coordinates": [ -87.67832,42.05049 ]
+            }
+      },
+      {
+            "type": "Feature",
+            "properties": {
+                  "building": "dormitory",
+                  "name": "Shepard Residential College",
+                  "addr:housenumber": "626",
+                  "addr:street": "University Place",
+                  "addr:city": "Evanston",
+                  "addr:postcode": "60201",
+                  "addr:street:name": "University",
+                  "addr:street:type": "Place",
+                  "addr:housename": null,
+                  "addr:state": null,
+                  "name:el": null,
+                  "website": null
+            },
+            "geometry": {
+                  "type": "Polygon",
+                  "coordinates": [ -87.67886,42.05086 ]
+            }
+      },
+      {
+            "type": "Feature",
+            "properties": {
+                  "building": "dormitory",
+                  "name": "Jones Fine and Performing Arts Residential College",
+                  "addr:housenumber": "1820",
+                  "addr:street": "Sheridan Road",
+                  "addr:city": "Evanston",
+                  "addr:postcode": "60201",
+                  "addr:street:name": "Sheridan",
+                  "addr:street:type": "Road",
+                  "addr:housename": null,
+                  "addr:state": null,
+                  "name:el": null,
+                  "website": null
+            },
+            "geometry": {
+                  "type": "Polygon",
+                  "coordinates": [ -87.67499,42.04936 ]
+            }
+      },
+      {
+            "type": "Feature",
+            "properties": {
+                  "building": "dormitory",
+                  "name": "1835 Hinman",
+                  "addr:housenumber": "1835",
+                  "addr:street": "Hinman Avenue",
+                  "addr:city": "Evanston",
+                  "addr:postcode": "60201",
+                  "addr:street:name": "Hinman",
+                  "addr:street:type": "Avenue",
+                  "addr:housename": "1835 Hinman",
+                  "addr:state": null,
+                  "name:el": null,
+                  "website": null
+            },
+            "geometry": {
+                  "type": "Polygon",
+                  "coordinates": [ -87.67547,42.04994 ]
+            }
+      }
+]
