@@ -46,7 +46,7 @@ let map = new InteractiveMap({
 		// You can also use this to create trails or clusters for the user to find
 		for (var i = 0; i < 10; i++) {
 
-			// make a polar offset (radius, theta) 
+			// make a polar offset (radius, theta)
 			// from the map's center (units are *approximately* meters)
 			let position = clonePolarOffset(NU_CENTER, 400*Math.random() + 300, 20*Math.random())
 			this.createLandmark({
@@ -67,11 +67,11 @@ let map = new InteractiveMap({
 		if (landmark.openMapData) {
 			console.log(landmark.openMapData)
 			landmark.name = landmark.openMapData.name
-			landmark.points = parseInt(landmark.openMapData['addr:housenumber'], 10) % 10
+			landmark.points = (parseInt(landmark.openMapData['addr:housenumber'], 10) % 10) +1
 		} else {
 			landmark.points = Math.floor(Math.random()*10 + 1)
 		}
-		
+
 		// *You* decide how to create a marker
 		// These aren't used, but could be examples
 		landmark.idNumber = landmarkCount++
@@ -80,9 +80,9 @@ let map = new InteractiveMap({
 		// Give it a random number of points
 		// landmark.points = Math.floor(Math.random()*10 + 1)
 		// landmark.points = parseInt(landmark.openMapData['addr:housenumber'], 10) % 10
-		
+
 		return landmark
-	}, 
+	},
 
 	onEnterRange: (landmark, newLevel, oldLevel, dist) => {
 		// What happens when the user enters a range
@@ -92,7 +92,7 @@ let map = new InteractiveMap({
 		if (newLevel == 3) {
 			// Add points to my gamestate
 
-			
+
 			if (landmark.openMapData) {
 				// Maximum capacity?
 				if (gameState.captured.length >= 5) {
@@ -116,13 +116,13 @@ let map = new InteractiveMap({
 	},
 
 	onExitRange: (landmark, newLevel, oldLevel, dist) => {
-		// What happens when the user EXITS a range around a landmark 
+		// What happens when the user EXITS a range around a landmark
 		// e.g. (2->1, 0->-1)
-		
+
 		console.log("exit", landmark.name, newLevel)
 	},
-	
-	
+
+
 	featureToStyle: (landmark) => {
 		// How should we draw this landmark?
 		// Returns an object used to set up the drawing
@@ -133,7 +133,7 @@ let map = new InteractiveMap({
 				noBG: true // skip the background
 			}
 		}
-		
+
 		// Pick out a hue, we can reuse it for foreground and background
 		let hue = landmark.points*.1
 		return {
@@ -150,7 +150,7 @@ let map = new InteractiveMap({
 		}
 	},
 
-	
+
 })
 
 
@@ -182,7 +182,7 @@ window.onload = (event) => {
 
 		data() {
 			return {
-			
+
 				map: map,
 				gameState: gameState
 			}
