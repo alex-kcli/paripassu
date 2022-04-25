@@ -42,18 +42,18 @@ let map = new InteractiveMap({
 			// return landmark.properties.amenity || landmark.properties.store
 		})
 
-		// // Create random landmarks
-		// // You can also use this to create trails or clusters for the user to find
-		// for (var i = 0; i < 10; i++) {
+		// Create random landmarks
+		// You can also use this to create trails or clusters for the user to find
+		for (var i = 0; i < 10; i++) {
 
-		// 	// make a polar offset (radius, theta) 
-		// 	// from the map's center (units are *approximately* meters)
-		// 	let position = clonePolarOffset(NU_CENTER, 400*Math.random() + 300, 20*Math.random())
-		// 	this.createLandmark({
-		// 		pos: position,
-		// 		name: words.getRandomWord(),
-		// 	})
-		// }
+			// make a polar offset (radius, theta) 
+			// from the map's center (units are *approximately* meters)
+			let position = clonePolarOffset(NU_CENTER, 400*Math.random() + 300, 20*Math.random())
+			this.createLandmark({
+				pos: position,
+				name: words.getRandomWord(),
+			})
+		}
 	},
 
 	update() {
@@ -68,6 +68,8 @@ let map = new InteractiveMap({
 			console.log(landmark.openMapData)
 			landmark.name = landmark.openMapData.name
 			landmark.points = parseInt(landmark.openMapData['addr:housenumber'], 10) % 10
+		} else {
+			landmark.points = Math.floor(Math.random()*10 + 1)
 		}
 		
 		// *You* decide how to create a marker
@@ -90,12 +92,24 @@ let map = new InteractiveMap({
 		if (newLevel == 3) {
 			// Add points to my gamestate
 
-			// Have we captured this?
-			if (!gameState.captured.includes(landmark.name)) {
-				gameState.points += landmark.points
-				gameState.captured.push(landmark.name)
-				// Add a message
-				gameState.messages.push(`You entered ${landmark.name} and earned ${landmark.points} points`)
+			
+			if (landmark.openMapData) {
+				// Maximum capacity?
+				if (gameState.captured.length >= 5) {
+					gameState.messages.push(`You have reached maximum capacity, please visit a drop off point`)
+				}
+				// Have we captured this?
+				else if (!gameState.captured.includes(landmark.name)) {
+					gameState.points += landmark.points
+					gameState.captured.push(landmark.name)
+					// Add a message
+					gameState.messages.push(`You entered ${landmark.name} and earned ${landmark.points} points`)
+				}
+			} else {
+				gameState.points -= landmark.points
+				gameState.captured.length = 0
+					// Add a message
+				gameState.messages.push(`You dropped off at ${landmark.name} and spent ${landmark.points} points`)
 			}
 
 		}
