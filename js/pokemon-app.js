@@ -51,7 +51,7 @@ let map = new InteractiveMap({
 			let position = clonePolarOffset(NU_CENTER, 400*Math.random() + 300, 20*Math.random())
 			this.createLandmark({
 				pos: position,
-				name: words.getRandomWord(),
+				name: "DropOff Point",
 			})
 		}
 	},
